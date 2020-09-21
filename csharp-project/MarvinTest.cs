@@ -17,12 +17,5 @@ namespace AI
 		string response = marvin.talk("Hello.");
 		Assert.AreEqual ("Whatever.", response);
 	}
-
-	[TestCleanup()]
-      	public void Cleanup()
-      	{		
-
-      	}
-
     }
 }
