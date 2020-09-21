@@ -7,4 +7,4 @@ projects:
     root: /csharp-project
     runner: 
       name: technicallyagile/dotnet-runner
-      version: 1.1.0-dotnet-1.1-sdk-msbuild
+      version: latest
