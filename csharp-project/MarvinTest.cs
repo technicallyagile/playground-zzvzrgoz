@@ -11,7 +11,7 @@ namespace AI
     {
 
 	[TestMethod]
-	public void VerifyCountAllStars() 
+	public void TalkToMarvin() 
 	{
 		Marvin marvin = new Marvin();
 		string response = marvin.talk("Hello.");
