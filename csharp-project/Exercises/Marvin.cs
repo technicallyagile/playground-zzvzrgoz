@@ -1,9 +1,9 @@
 namespace AI
 {
-	public class Martin
+	public class Marvin
 	{
 
-		publis string talk(string statement) {
+		public string talk(string statement) {
 			return null;
 		}
 		
